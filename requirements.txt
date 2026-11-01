@@ -1,0 +1,5 @@
+Flask
+Flask-Limiter
+Flask-SQLAlchemy
+Flask-WTF
+pytest
